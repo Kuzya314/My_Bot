@@ -1,0 +1,1 @@
+TOKEN = "8284239967:AAGi13CtAsUvDhCXV7rBuizfRUp42eWiGdk"  # t.me/My_calculator_valute_bot.
